@@ -1,0 +1,21 @@
+{
+  "name": "panda",
+  "version": "1.0.0",
+  "description": "lal",
+  "main": "bot - Kopya.js",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "generate": "^0.14.0",
+    "generate-password": "^1.4.0",
+    "math-expression-evaluator": "^1.2.17",
+    "password": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SaFIRTINA",
+  "license": "ISC"
+}
